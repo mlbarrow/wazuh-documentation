@@ -149,7 +149,7 @@ It is possible to create what we call `sibling decoders <sibling-decoders.html>`
 
 Example:
 
-*Decoder_junior* will enter only if *decoder_parent* has previously matched.
+*Decoder_junior* will enter only if *decoder_father* has previously matched.
 
 .. code-block:: xml
 
